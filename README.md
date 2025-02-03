@@ -26,19 +26,20 @@
     width="60px"
     alt="C++">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Frameworks -->
+
+  <!--- 
+  <!-- Frameworks & Libraries -->
   </br>
-  <h3>Frameworks</h3>
+  <h3>Frameworks & Libraries</h3>
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.14.0/icons/pandas/pandas-original-wordmark.svg"
     width="60px"
-    alt="Spring (Spring-boot)">
+    alt="Pandas">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.14.0/icons/numpy/numpy-original-wordmark.svg"
     width="60px"
-    alt="Apache Kafka">
+    alt="Numpy">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-plain-wordmark.svg"
@@ -93,7 +94,7 @@
     width="60px"
     alt="Karma">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  
+  ---> 
   <!-- Storages -->
   </br>
   <h3>Storages</h3>
@@ -106,11 +107,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
     width="60px"
     alt="PostgreSQL">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg"
-    width="60px"
-    alt="Firebase">
     &nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- Tools -->
